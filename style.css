@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  input {
+    width: 70%;
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px 10px;
+    margin-left: 5px;
+  }
+  
+  ul {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    padding: 8px;
+    background: #e0e0e0;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
